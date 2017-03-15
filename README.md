@@ -1,3 +1,4 @@
 # hello-world
 basic repository
-Jayce here, I like php, sql, mysql, javascript
+Jayce here, I like php, sql, donuts, and cheese
+
